@@ -1,0 +1,66 @@
+.text {
+color: black;
+font-size: 40px;
+font-weight: 700;
+margin-top: 0px;
+text-align: left;
+
+
+
+}
+
+.text2 {
+color: black;
+font-size: 30px;
+font-weight: 700;
+margin-top: -40px;
+text-align: left;
+
+}
+
+
+
+.text3 {black
+color: black;
+font-size: 30px;
+font-weight: 700;
+margin-top: 10px;
+text-align: left;
+
+
+
+}
+
+
+.text4 {
+color: black;
+font-size: 30px;
+font-weight: 700;
+margin-top: -30px;
+text-align: left;
+
+
+
+}
+
+
+.text5 {
+color: black;
+font-size: 30px;
+font-weight: 700;
+margin-top: 10px;
+text-align: left;
+
+
+}
+
+
+.video {
+color: red;
+font-size: 40px;
+font-weight: 700;
+margin-top: 100px;
+text-align: center;
+
+
+}
